@@ -1,0 +1,4 @@
+github.com/spf13/cobra v1.7.0 h1:qb7kGhnXknLvEXWgjf7ESc0+XytFp50DPy7jCRyXmA=
+github.com/spf13/cobra v1.7.0/go.mod h1:G8Vt7Ufx2uVpAsBbIbhdYAKZnFf16xhwD3zy2k0Vm+8=
+golang.org/x/crypto v0.0.0-20230117172235-d78da5cd1cf3 h1:Uo/KwHXgPRAh2pp9YVyiDkWMyBa6v6Dhd6EJ2ov4ktk=
+golang.org/x/crypto v0.0.0-20230117172235-d78da5cd1cf3/go.mod h1:e8FNsPMDtsHfYufA9DKTOndHRh4pDq7swsJ5JYX7doI=
